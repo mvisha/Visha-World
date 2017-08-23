@@ -1,0 +1,2 @@
+Manual commits are useful to update a set of operations for a particular change.
+We need to manually update, then only it will move to server for other's view.
